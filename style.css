@@ -8,7 +8,7 @@
     width: 1280px;
     height: auto;
     margin: 0px 150.4px 0px 150.4px;
-    border-radius: 30px;
+    border-radius: 10px;
     justify-content: space-between;
 }
 .hero-1-text{
@@ -31,4 +31,53 @@
 }
 .h1-image{
     padding: 75px 56.4px 75px 0px;
+}
+.hero-2-doc{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150.4px 0px 150.4px;
+    gap: 24px;
+}
+.hero-2-box{
+    border-radius: 10px;
+    width: 390px;
+    height: auto;
+    padding: 30.08px;   
+}
+.hero-2-h3{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(14, 14, 14, 0.8);
+    margin-top: 22.56px;
+    margin-bottom: 10px;
+}
+.hero-2-p{
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+}
+.hero-2-btn{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    padding: 11px  20px  11px 20px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 45.12px;
+    margin-bottom: 20px;
+}
+.hero-3{
+    margin-top: 200px;
+    padding-left: 150.4px;
+    padding-right: 150.4px;
+}
+.hero-3-box{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(128, 124, 124, 0.341);
+    border-radius: 10px;
+}
+.hero-3-img{
+    padding:  45.12px;
+}
+.hero-3-text{
+    padding: 45.12px;
 }
