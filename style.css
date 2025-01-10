@@ -117,3 +117,10 @@
     display: flex;
     justify-content: center;
 }
+.hero-6{
+    background-image: url(./assets/quote-bg.png);
+    background-color: rgba(128, 124, 124, 0.341);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: 22.5px 22.5px ;
+}
