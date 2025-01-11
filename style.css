@@ -65,6 +65,7 @@
     border: none;
     margin-top: 45.12px;
     margin-bottom: 20px;
+    background-color: rgb(0, 106, 80);
 }
 .hero-3{
     margin-top: 200px;
@@ -125,4 +126,25 @@
     border-radius: 10px;
     background-repeat: no-repeat;
     background-position: 22.5px 22.5px ;
+}
+
+.hero-2-btn-5{
+    background-color: rgb(9, 161, 92);
+}
+.hero-2-btn-3{
+   background-color: rgb(255, 194, 57);
+}
+.xxxx{
+    background-color: rgb(198, 228, 214);
+}
+.hero-5-btn1{
+    background-color: rgb(0, 106, 80);
+    color: white;border: none; margin-right: 0px; 
+}
+
+
+.button-hover:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
 }
